@@ -1,0 +1,16 @@
+{
+  "name": "fortnitebot",
+  "version": "0.0.1",
+  "description": "A bot for fortnite news, weapons and skins!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Green",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "fortnite": "^4.1.1"
+  }
+}
